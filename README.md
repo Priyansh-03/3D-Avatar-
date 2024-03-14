@@ -4,9 +4,7 @@ Install [Node.js](https://nodejs.org/dist/v20.11.1/node-v20.11.1-x86.msi)
 
 Once Node.js is installed, try running the command `npm` in the terminal.
 
-Install the required packages from `requirements.txt`.
-
-Once all modules/packages are installed, run `yarn` in the terminal.
+If installed, run `yarn` in the terminal to install the dependencies.
 
 If the previous command executed successfully, then run `yarn dev`.
 
