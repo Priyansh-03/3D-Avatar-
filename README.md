@@ -31,7 +31,7 @@
 
 # r3f-vite-starter
 
-Install [Node.js](https://nodejs.org/dist/v20.11.1/node-v20.11.1-x86.msi)
+Install [Node.js]([https://nodejs.org/dist/v20.11.1/node-v20.11.1-x86.msi](https://nodejs.org/en/download))
 
 Once Node.js is installed, try running the command `npm` in the terminal.
 
