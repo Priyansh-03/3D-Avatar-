@@ -1,18 +1,4 @@
-# r3f-vite-starter
-
-Install [Node.js](https://nodejs.org/dist/v20.11.1/node-v20.11.1-x86.msi)
-
-Once Node.js is installed, try running the command `npm` in the terminal.
-
-If installed, run `yarn` in the terminal to install the dependencies.
-
-If the previous command executed successfully, then run `yarn dev`.
-
-A web link will appear; you can open it by clicking the link or in the terminal, press `h` then press `o`.
-
-To stop the terminal, use `q` or `Ctrl+c`.
-
-  <h2 align="left">Hi 👋! My name is  Priyansh and I'm an AIML developer. Subscribe Kingish on youtube ✌🏻</h2>
+ <h2 align="left">Hi 👋! My name is  Priyansh and I'm an AIML developer. Subscribe Kingish on youtube ✌🏻</h2>
 
 ###
 
@@ -39,3 +25,22 @@ To stop the terminal, use `q` or `Ctrl+c`.
 </div>
 
 ###
+
+
+
+
+# r3f-vite-starter
+
+Install [Node.js](https://nodejs.org/dist/v20.11.1/node-v20.11.1-x86.msi)
+
+Once Node.js is installed, try running the command `npm` in the terminal.
+
+If installed, run `yarn` in the terminal to install the dependencies.
+
+If the previous command executed successfully, then run `yarn dev`.
+
+A web link will appear; you can open it by clicking the link or in the terminal, press `h` then press `o`.
+
+To stop the terminal, use `q` or `Ctrl+c`.
+
+ 
